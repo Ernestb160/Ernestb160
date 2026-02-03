@@ -33,9 +33,3 @@ Here are some ideas to get you started:
 
 
 ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernestb160&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
-
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernestb160&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ernestb160&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" />
-</p>
