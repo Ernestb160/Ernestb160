@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestb160&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ernestb160&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+![Ernest's Metrics](https://metrics.lecoq.io/ernestb160?base=0&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=percentage)
 
 
 
