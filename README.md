@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernestb160&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestb160&layout=compact&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=00000000)
 
 
 
