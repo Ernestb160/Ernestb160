@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestb160&show_icons=true&theme=radical)
+![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestb160&show_icons=true&theme=radical)
