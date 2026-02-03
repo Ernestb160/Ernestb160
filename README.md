@@ -1,6 +1,6 @@
 ## Hi, I'm Ernest.
   Software engineering student focused on developing Apps and games to make better systems for all. 
-  Currently Dual Enrolled in HS and College for IT.
+  Currently Dual Enrolled in HS and College for IT. Hoping to be a Software Engineer/Game Developer someday. Made this account because I'm applying for colleges soon.
   
 <!--
 **Ernestb160/Ernestb160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
