@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Ernest's Metrics](https://metrics.lecoq.io/ernestb160?base=0&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=percentage)
+![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernestb160&layout=compact&theme=dracula)
 
 
 
