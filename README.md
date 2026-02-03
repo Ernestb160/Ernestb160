@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Ernest.
+  Software Engineering to understand the Machine,
+  Game development to understand the player.
 
 <!--
 **Ernestb160/Ernestb160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
