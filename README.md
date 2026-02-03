@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestb160&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ernestb160&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+
+
+
 ### Coding Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
