@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernestb160&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff)
 
 
 
@@ -30,4 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-![Ernest's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ernestb160&show_icons=true&theme=radical)
+![Ernest's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ernestb160&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+
+
+![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernestb160&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
