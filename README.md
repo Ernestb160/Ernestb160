@@ -1,7 +1,5 @@
 ## Hi, I'm Ernest.
-  Software Engineering to understand the Machine,
-  Game development to understand the player.
-
+  Software engineering student focused on developing Apps and games to make better systems for all. 
 <!--
 **Ernestb160/Ernestb160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
