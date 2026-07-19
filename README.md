@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![Ernest's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ernestb160&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
-
-
-![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernestb160&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ernestb160&show_icons=true&hide_border=true&border_radius=10&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="Ernest's Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ernestb160&layout=compact&hide_border=true&border_radius=10&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="Top Languages" />
+</p>
